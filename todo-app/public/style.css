@@ -1,0 +1,34 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 24 px;
+}
+
+body {
+    background: rgb(255, 255, 255);
+    color: #454E59;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: #454E59;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    
+}
